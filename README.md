@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript**
 - ⚛️ Exploring **ReactJs**
 - 👨‍💻 All of my projects are available at **[Kavita Pathak](https://kavita-pathak-portfolio.netlify.app/)**
-- 📝 I do write articles on **[KavitaP03](https://hashnode.com/@KavitaP03)**
+- 📝 I do write articles on **[kavitapathak03.hashnode.dev](https://kavitapathak03.hashnode.dev/)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
